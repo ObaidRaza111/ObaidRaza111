@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obaid Raza</h1>
-<h3 align="center">A passionate developer from India, currently exploring in Chicago, IL.</h3>
+<h3 align="center">A passionate developer.</h3>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" alt="obaidraza111" /> </p>
 
